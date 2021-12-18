@@ -16,3 +16,5 @@ bdate = int(input("Born (YYYY): "))
 age = int(today.year - bdate)
 
 print(fname + ", you're", age, "years old!")
+
+# is this synced?
